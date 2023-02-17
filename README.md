@@ -3,7 +3,7 @@
 ![mavencommands](https://user-images.githubusercontent.com/57431420/219677950-bf8e0cc4-5c37-4428-8f84-766847f1c4fb.png)
 
 ### outputs
-******* ALL CUSTOMERS*************
+******* ALL CUSTOMERS************* \
 All customers: [Customer(firstName=Hasan, lastName=ilhan, products=[Product{ productName='çanta', price=500.6}]), Customer(firstName=Can, lastName=ilhan, products=[Product{ productName='eldiven', price=1500.6}, Product{ productName='çanta', price=500.6}])] \
 
 **********CUSTOMERS CONTAINS C character******** \
