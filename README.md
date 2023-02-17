@@ -10,7 +10,7 @@ All customers: [Customer(firstName=Hasan, lastName=ilhan), Customer(firstName=Ca
 Customer(firstName=Can, lastName=ilhan)
 
 ******CUSTOMERS BILLS SUM IN JUNE***********\
-sdfsdfsd: [Customer(firstName=Can, lastName=ilhan)]
+
 customer: Customer(firstName=Can, lastName=ilhan) sum of customer's Bill: 2001.1999999999998
 
 *********** ALL BILLS**************\
