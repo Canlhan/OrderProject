@@ -7,7 +7,7 @@
 All customers: [Customer(firstName=Hasan, lastName=ilhan, products=[Product{ productName='çanta', price=500.6}]), Customer(firstName=Can, lastName=ilhan, products=[Product{ productName='eldiven', price=1500.6}, Product{ productName='çanta', price=500.6}])] \
 
 **********CUSTOMERS CONTAINS C character******** \
-Customer(firstName=Can, lastName=ilhan, products=[Product{ productName='eldiven', price=1500.6}, Product{ productName='çanta', price=500.6}]) \
+Customer(firstName=Can, lastName=ilhan, products=[Product{ productName='eldiven', price=1500.6}, Product{ productName='çanta', price=500.6}])\
 
 ******CUSTOMERS BILLS SUM IN JUNE*********** \
 sdfsdfsd: [Customer(firstName=Can, lastName=ilhan, products=[Product{ productName='eldiven', price=1500.6}, Product{ productName='çanta', price=500.6}])]
